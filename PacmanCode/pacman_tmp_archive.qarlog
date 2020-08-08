@@ -1,0 +1,104 @@
+Quartus Prime Archive log --	C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_tmp_archive.qarlog
+
+Archive:	C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_tmp_archive.qar
+Date:		Fri May 03 15:05:45 2019
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/Color_Mapper.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/HexDriver.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/VGA_controller.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/ball.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/dot.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/dotGrid.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/dotSprite.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/findWalls.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/gameOver.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/ghost.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/ghostSprite.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/hpi_io_intf.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/maze.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/mazeWalls.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/numbers.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pac.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pac2.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman.qpf
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman.qsf
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc.qsys
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc.sopcinfo
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/pacman_soc.cmp
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/pacman_soc.debuginfo
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/pacman_soc.qip
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/pacman_soc.regmap
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/pacman_soc.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_avalon_sc_fifo.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_avalon_st_clock_crosser.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.sdc
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_avalon_st_pipeline_base.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_merlin_arbitrator.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_merlin_master_agent.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_merlin_master_translator.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_merlin_slave_agent.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_merlin_slave_translator.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_reset_controller.sdc
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_reset_controller.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_reset_synchronizer.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/altera_std_synchronizer_nocut.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_irq_mapper.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_jtag_uart_0.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_keycode.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_avalon_st_adapter.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_cmd_demux.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_cmd_demux_001.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_cmd_mux.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_cmd_mux_001.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_router.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_router_001.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_router_002.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_router_003.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_rsp_demux.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_rsp_demux_001.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_rsp_mux.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_mm_interconnect_0_rsp_mux_001.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_nios2_gen2_0.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_nios2_gen2_0_cpu.sdc
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_nios2_gen2_0_cpu.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_nios2_gen2_0_cpu_debug_slave_sysclk.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_nios2_gen2_0_cpu_debug_slave_tck.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_nios2_gen2_0_cpu_debug_slave_wrapper.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_nios2_gen2_0_cpu_ociram_default_contents.mif
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_nios2_gen2_0_cpu_rf_ram_a.mif
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_nios2_gen2_0_cpu_rf_ram_b.mif
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_nios2_gen2_0_cpu_test_bench.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_onchip_memory2_0.hex
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_onchip_memory2_0.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_otg_hpi_address.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_otg_hpi_cs.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_otg_hpi_data.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_rnd_percent.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_sdram.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_sdram_pll.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_soc/synthesis/submodules/pacman_soc_sysid_qsys_0.v
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_tp.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/scoreChars.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/scoreCounter.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/scoreDisplay.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/sprites.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/superDot.sv
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/vga_clk.qip
+C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/vga_clk.v
+c:/intelfpga_lite/18.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 87 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri May 03 15:06:01 2019
+Source archive file:	C:/Users/aush5/OneDrive - University of Illinois - Urbana/ECE 385/Pacman/PacmanCode/pacman_tmp_archive.qar
+Archive was extracted into	E:/ECE385/ABJ/Xinbo_Final_ABJ/apate362_ytyag2/
+		 - successfully.

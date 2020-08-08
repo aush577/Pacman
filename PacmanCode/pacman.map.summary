@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri May 03 14:54:28 2019
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : pacman
+Top-level Entity Name : pacman_tp
+Family : Cyclone IV E
+Total logic elements : 25,546
+    Total combinational functions : 24,573
+    Dedicated logic registers : 2,799
+Total registers : 2799
+Total pins : 206
+Total virtual pins : 0
+Total memory bits : 11,392
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 2
